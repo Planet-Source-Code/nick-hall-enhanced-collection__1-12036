@@ -1,0 +1,9 @@
+CCollectionPlus = 0, 0, 0, 0, C
+CCollectionWalker = 0, 0, 0, 0, C
+modColEnum = 0, 0, 0, 0, C
+modColPlus = 0, 0, 0, 0, C
+CEnumVariant = 0, 0, 0, 0, C
+CCollectionString = 0, 0, 0, 0, C
+CCollectionStringWalker = 0, 0, 0, 0, C
+GCasts = 0, 0, 0, 0, C
+modUtils = 0, 0, 0, 0, C
